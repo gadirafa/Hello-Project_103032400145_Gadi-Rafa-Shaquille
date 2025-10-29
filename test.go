@@ -1,3 +1,5 @@
+#INI HASIL KOMENTAR
+
 package main
 
 import (
